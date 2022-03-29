@@ -1,0 +1,106 @@
+/* CSS Document */
+
+
+body{
+	background-color: #A3BDBE;
+	margin: 10px;
+	overflow: auto;
+}
+
+.dreamtext{
+	color: white;
+}
+
+.dreamheader{
+	color: white;
+}
+
+.title{
+	text-align: center;
+}
+
+.aboutmediv{
+	border: 1px solid black;
+	padding: 10px;
+	padding-top: 5px;
+	width: 500px;
+	display: inline-block;
+}
+
+.aboutmeheader{
+	text-align: center;
+}
+
+.linksheader{
+	text-align: center;
+}
+
+.linksdiv{
+	border: 1px solid black;
+	padding: 10px;
+	padding-top: 5px;
+	width: 350px;
+	display: inline-block;
+}
+
+.linkaboutme{
+	display: inline-block;
+
+}
+
+.pooguin{
+	border: 2px solid whitesmoke;
+	padding:  10px;
+	color: whitesmoke;
+	display: inline-block;
+}
+
+.class1{
+	color: green;
+	margin-right: -5px;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	vertical-align: bottom;
+	white-space: nowrap;
+		
+}
+.class2{
+	color: lightblue;
+	margin-right: -5px;
+	display: inline-block;
+	width: 180px;
+	height: 50px;
+	vertical-align: bottom;
+	white-space: nowrap;
+		
+}
+.class3{
+	color: blue;
+	margin-right: -5px;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	vertical-align: bottom;
+	white-space: nowrap;
+		
+}
+.class4{
+	color: mediumpurple;
+	margin-right: -5px;
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+	vertical-align: bottom;
+	white-space: nowrap;
+		
+}
+.class5{
+	color: indianred;
+	margin-right: -5px;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	vertical-align: bottom;
+	white-space: nowrap;
+}
