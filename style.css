@@ -7,6 +7,18 @@ body{
 	overflow: auto;
 }
 
+p{
+	color: white;
+}
+h2{
+	color: white;
+}
+
+.videogamepics{
+	border-radius: 10px;
+	color: white;
+}
+
 .dreamtext{
 	color: white;
 }
@@ -104,3 +116,24 @@ body{
 	vertical-align: bottom;
 	white-space: nowrap;
 }
+
+.greenlandpic{
+	border-radius: 10px;
+}
+
+.utahpics{
+	border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
