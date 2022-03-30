@@ -2,33 +2,17 @@
 
 
 body{
-	background-color: #A3BDBE;
+	background-color: #6DA0AF;
 	margin: 10px;
 	overflow: auto;
 }
 
-p{
-	color: white;
-}
-h2{
-	color: white;
-}
 
-.videogamepics{
-	border-radius: 10px;
-	color: white;
-}
 
-.dreamtext{
-	color: white;
-}
-
-.dreamheader{
-	color: white;
-}
 
 .title{
 	text-align: center;
+	color: white;
 }
 
 .aboutmediv{
@@ -37,14 +21,17 @@ h2{
 	padding-top: 5px;
 	width: 500px;
 	display: inline-block;
+	color: white;
 }
 
 .aboutmeheader{
 	text-align: center;
+	color: white;
 }
 
 .linksheader{
 	text-align: center;
+	color: white;
 }
 
 .linksdiv{
@@ -53,11 +40,20 @@ h2{
 	padding-top: 5px;
 	width: 350px;
 	display: inline-block;
+	color: white;
 }
 
 .linkaboutme{
 	display: inline-block;
+}
 
+.videogametitle{
+	color: white;
+}
+
+.videogamepics{
+	border-radius: 10px;
+	color: white;
 }
 
 .pooguin{
@@ -117,14 +113,39 @@ h2{
 	white-space: nowrap;
 }
 
-.greenlandpic{
-	border-radius: 10px;
+.bucketlist{
+	border: 1px solid black;
+	display: inline-block;	
+ 	padding: 10px;
+	color: white;
 }
 
 .utahpics{
 	border-radius: 10px;
 }
 
+.dreamtext{
+	color: white;
+}
+
+.dreamheader{
+	color: white;
+}
+
+.greenlandpic{
+	border-radius: 10px;
+}
+
+.peerstext{
+	display: inline-block;	
+	padding: 10px;
+	border: 1px solid black;
+	color: white;
+}
+
+.peerlinks{
+	color: white;
+}
 
 
 
