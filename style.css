@@ -56,10 +56,14 @@ body{
 	color: white;
 }
 
+.penguinheader{
+	color: white;
+}
+
 .pooguin{
-	border: 2px solid whitesmoke;
+	border: 2px solid white;
 	padding:  10px;
-	color: whitesmoke;
+	color: white;
 	display: inline-block;
 }
 
@@ -113,10 +117,18 @@ body{
 	white-space: nowrap;
 }
 
+.bucketheader{
+	color: white;
+}
+
 .bucketlist{
 	border: 1px solid black;
 	display: inline-block;	
  	padding: 10px;
+	color: white;
+}
+
+.utahheader{
 	color: white;
 }
 
