@@ -135,8 +135,12 @@ body{
 }
 
 .utahpics{
+	vertical-align: top;
 	display: inline-block;
+	width: 30vw;
+	height: auto;
 	border-radius: 10px;
+	
 }
 
 .dreamtext{
@@ -148,6 +152,9 @@ body{
 }
 
 .greenlandpic{
+	display: inline-block;
+	width: 40vw;
+	height: auto;
 	border-radius: 10px;
 }
 
