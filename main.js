@@ -11,7 +11,7 @@ document.getElementById("myButton").addEventListener("click", strawberry);
 
 function watermellon() {
 	document.getElementById("hello").style.backgroundColor = "pink";
-	document.getElementById("hello").innerHTML = "Watermellon";
+	document.getElementById("hello").innerHTML = "Watermelon";
 }
 
 document.getElementById("myButton1").addEventListener("click", watermellon);
@@ -81,7 +81,7 @@ document.getElementById("myButtonyellow").addEventListener("click", changeYellow
 
 
 function changeGreen() {
-	document.getElementById("hello").style.backgroundColor = "green";
+	document.getElementById("hello").style.backgroundColor = "lime";
 	document.getElementById("hello").innerHTML = "GREEN";
 }
 
