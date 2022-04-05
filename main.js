@@ -1,4 +1,7 @@
+
+//Words:
 function strawberry() {
+	document.getElementById("hello").style.backgroundColor = "darkred";
 	document.getElementById("hello").innerHTML = "Strawberry";
 }
 
@@ -7,6 +10,7 @@ document.getElementById("myButton").addEventListener("click", strawberry);
 
 
 function watermellon() {
+	document.getElementById("hello").style.backgroundColor = "pink";
 	document.getElementById("hello").innerHTML = "Watermellon";
 }
 
@@ -15,6 +19,7 @@ document.getElementById("myButton1").addEventListener("click", watermellon);
 
 
 function Pineapple() {
+	document.getElementById("hello").style.backgroundColor = "yellow";
 	document.getElementById("hello").innerHTML = "Pineapple";
 }
 
@@ -23,6 +28,7 @@ document.getElementById("myButton2").addEventListener("click", Pineapple);
 
 
 function JFK() {
+	document.getElementById("hello").style.backgroundColor = "red";
 	document.getElementById("hello").innerHTML = "JFK";
 }
 
@@ -31,12 +37,24 @@ document.getElementById("myButton3").addEventListener("click", JFK);
 
 
 function Cucumber() {
+	document.getElementById("hello").style.backgroundColor = "lime";
 	document.getElementById("hello").innerHTML = "Cucumber";
 }
 
 document.getElementById("myButton4").addEventListener("click", Cucumber);
 
 
+
+function Carrot() {
+	document.getElementById("hello").style.backgroundColor = "orange";
+	document.getElementById("hello").innerHTML = "Carrot";
+}
+
+document.getElementById("myButton5").addEventListener("click", Carrot);
+
+
+
+//Colors:
 function changeRed() {
 	document.getElementById("hello").style.backgroundColor = "red";
 	document.getElementById("hello").innerHTML = "RED";
