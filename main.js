@@ -1,47 +1,47 @@
 
 //Words:
-function strawberry() {
+function Potato() {
 	document.getElementById("hello").style.backgroundColor = "darkred";
-	document.getElementById("hello").innerHTML = "Strawberry";
+	document.getElementById("hello").innerHTML = "Potato";
 }
 
-document.getElementById("myButton").addEventListener("click", strawberry);
+document.getElementById("myButton").addEventListener("click", Potato);
 
 
 
-function watermellon() {
-	document.getElementById("hello").style.backgroundColor = "pink";
-	document.getElementById("hello").innerHTML = "Watermelon";
-}
-
-document.getElementById("myButton1").addEventListener("click", watermellon);
-
-
-
-function Pineapple() {
+function Corn() {
 	document.getElementById("hello").style.backgroundColor = "yellow";
-	document.getElementById("hello").innerHTML = "Pineapple";
+	document.getElementById("hello").innerHTML = "Corn";
 }
 
-document.getElementById("myButton2").addEventListener("click", Pineapple);
+document.getElementById("myButton1").addEventListener("click", Corn);
 
 
 
-function JFK() {
-	document.getElementById("hello").style.backgroundColor = "red";
-	document.getElementById("hello").innerHTML = "JFK";
+function Eggplant() {
+	document.getElementById("hello").style.backgroundColor = "purple";
+	document.getElementById("hello").innerHTML = "Eggplant";
 }
 
-document.getElementById("myButton3").addEventListener("click", JFK);
+document.getElementById("myButton2").addEventListener("click", Eggplant);
 
 
 
-function Cucumber() {
+function Lettuce() {
 	document.getElementById("hello").style.backgroundColor = "lime";
-	document.getElementById("hello").innerHTML = "Cucumber";
+	document.getElementById("hello").innerHTML = "Lettuce";
 }
 
-document.getElementById("myButton4").addEventListener("click", Cucumber);
+document.getElementById("myButton3").addEventListener("click", Lettuce);
+
+
+
+function Kale() {
+	document.getElementById("hello").style.backgroundColor = "darkgreen";
+	document.getElementById("hello").innerHTML = "Kale";
+}
+
+document.getElementById("myButton4").addEventListener("click", Kale);
 
 
 
