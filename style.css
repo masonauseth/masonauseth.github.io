@@ -170,6 +170,10 @@ body{
 	border: 1px solid black;
 }
 
+#minus, #plus, #total{
+	display: inline-block;
+}
+
 
 
 
