@@ -36,12 +36,12 @@ document.getElementById("myButton3").addEventListener("click", Lettuce);
 
 
 
-function Kale() {
+function Joe() {
 	document.getElementById("hello").style.backgroundColor = "darkgreen";
-	document.getElementById("hello").innerHTML = "Kale";
+	document.getElementById("hello").innerHTML = "Joe";
 }
 
-document.getElementById("myButton4").addEventListener("click", Kale);
+document.getElementById("myButton4").addEventListener("click", Joe);
 
 
 
