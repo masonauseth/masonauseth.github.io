@@ -191,6 +191,10 @@ color: white;
 	display: inline-grid
 }
 
+#buttons{
+	display: inline-block;
+	vertical-align:  center;
+}
 
 
 
