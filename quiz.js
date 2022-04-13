@@ -10,6 +10,7 @@ var q9 = document.getElementById("q9");
 var q10 = document.getElementById("q10");
 var submit = document.getElementById("submit");
 var score = document.getElementById("score");
+var password = document.getElementById("password");
 var result = 0;
 
 function calculate() {
@@ -47,6 +48,10 @@ if(q10.value == "Suspicious"){
 }	
 	
 score.innerHTML = result;
+	
+if(result == 10){
+	password.innerHTML = "SHHH, the secret password is snickerdoodle"
+}
 	
 }	
 
