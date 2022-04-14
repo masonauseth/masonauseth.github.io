@@ -193,10 +193,14 @@ color: white;
 
 #buttons{
 	display: inline-block;
-	vertical-align:  center;
+	vertical-align: top;
 }
 
-
+.buttons{
+	display: block;
+	vertical-align: top;
+	width: 5vw;
+}
 
 
 
