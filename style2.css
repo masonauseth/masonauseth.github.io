@@ -1,0 +1,16 @@
+/* CSS Document */
+
+body{
+	background-color: #6DA0AF;
+	margin: 10px;
+	overflow: auto;
+}
+
+.madheader{
+	color: white;
+}
+
+.maddivs{
+	display: inline-block
+	
+}
