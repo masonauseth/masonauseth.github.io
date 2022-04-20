@@ -189,6 +189,12 @@ color: white;
 .quiz{
 	size: 20vw;
 	display: inline-grid
+		
+}
+
+
+.colorquiz{
+	color: white;
 }
 
 #buttons{
