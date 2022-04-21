@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.topbluebarwords{
+	display: inline-block;
+	color: white;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 13px
+	
+		
+}
+
+
+.topbluebar{
+	background-color: #001489;
+	text-align: left
+		
+}
