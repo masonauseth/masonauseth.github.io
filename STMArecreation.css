@@ -17,3 +17,53 @@
 	text-align: center;
 		
 }
+
+
+
+.knightpic{
+	padding-top: 25px;
+	padding-left: 190px;
+	padding-right: 400px
+}
+
+.knightpicline{
+	display: inline-block;
+}
+
+
+
+#districthomebutton{
+	background-color:  #001489;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: 60px;
+	
+}
+
+#ourschoolsbutton{
+	background-color:  #001489;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: 60px;
+		
+}
+
+#magnifybutton{
+	background-color:  #FFD400;
+	color: black;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: 60px;
+	
+}
+
+
+
