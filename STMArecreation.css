@@ -22,14 +22,14 @@
 
 .knightpic{
 	padding-top: 25px;
-	padding-left: 190px;
-	padding-right: 400px
+	padding-left: 30vw;
+	padding-right: 400vw;
 }
 
 .knightpicline{
 	display: inline-block;
+	width: 70vw;
 }
-
 
 
 #districthomebutton{
@@ -64,6 +64,23 @@
 	vertical-align: 60px;
 	
 }
+
+
+.bottombuttons{
+	display: inline-block;
+text-align: center;
+vertical-align: top
+
+	
+}
+
+.bottombuttons1{
+	background-color: whitesmoke;
+}
+
+
+
+
 
 
 
