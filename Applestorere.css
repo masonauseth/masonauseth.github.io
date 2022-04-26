@@ -5,15 +5,11 @@
 }
 
 .topbarwords{
-	padding-right: 35px;
+	vertical-align: middle;
+	padding-right: 30px;
 	display: inline-block;
 	color: #d6d6d6
 	
-	
-}
-
-.topbarpics{
-	padding-right: 35px;
 	
 }
 
