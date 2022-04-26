@@ -9,7 +9,16 @@
 	padding-right: 30px;
 	display: inline-block;
 	color: #d6d6d6
-	
-	
+
 }
 
+.imagestab{
+	text-align: center;
+}
+
+.imagestabpics{
+	vertical-align: middle;
+	padding-top: 20px;
+	padding-right: 35px;
+	display: inline-block;
+}
