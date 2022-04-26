@@ -12,13 +12,15 @@
 
 }
 
-.imagestab{
-	text-align: center;
+.imagestab1{
+text-align: center;
 }
 
-.imagestabpics{
-	vertical-align: middle;
-	padding-top: 20px;
-	padding-right: 35px;
-	display: inline-block;
+.imagestab{
+display: inline-block;
+vertical-align: bottom;
+padding-top: 20px;
+padding-right: 27px;
+
 }
+
