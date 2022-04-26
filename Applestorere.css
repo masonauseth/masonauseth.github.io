@@ -14,6 +14,7 @@
 
 .imagestab1{
 text-align: center;
+background-color: #fbfbfd;
 }
 
 .imagestab{
@@ -21,6 +22,10 @@ display: inline-block;
 vertical-align: bottom;
 padding-top: 20px;
 padding-right: 27px;
+color: #464648;
+}
 
+.cashback1{
+	
 }
 
