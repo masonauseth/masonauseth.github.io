@@ -10,7 +10,7 @@ font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",s
 
 .topbarwords{
 	vertical-align: middle;
-	padding-right: 30px;
+	padding-right: 50px;
 	display: inline-block;
 	color: #d6d6d6
 
@@ -25,7 +25,7 @@ background-color: #fbfbfd;
 display: inline-block;
 vertical-align: bottom;
 padding-top: 20px;
-padding-right: 27px;
+padding-right: 47px;
 color: #464648;
 }
 
@@ -51,27 +51,27 @@ color: #464648;
 
 .cashback{
 	color: #1d1d1f;
-	font-size: 13.5px;
+	font-size: 19px;
 }
 
 .learnmore{
 	color: #1371cf;
-	font-size: 13.5px;
+	font-size: 19px;
 }
 
 .iphone13pro{
 	text-align: center;
 	padding-top: 60px;
-	font-size: 25px;
+	font-size: 35px;
 }
 
 .ohsopro{
-	font-size: 45px;
+	font-size: 65px;
 	
 }
 
 .tradein{
-	font-size: 28px;
+	font-size: 33px;
 	
 }
 
@@ -85,15 +85,15 @@ color: #464648;
 	font-size: 25px;
 	color: white;
 	background-color: #1371cf;
-	padding-bottom: 6px;
-	padding-top: 6px;
-	padding-left: 14px;
-	padding-right: 14px;
-	border-radius: 20px;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 30px;
 }
 
 #buylearnmore{
-	font-size: 25px;
+	font-size: 35px;
 	padding-left: 40px;
 	color: #1371cf;
 
