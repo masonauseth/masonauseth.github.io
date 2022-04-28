@@ -29,6 +29,18 @@ padding-right: 27px;
 color: #464648;
 }
 
+.new{
+	margin-bottom: -30px;
+}
+
+.upsidaisytext{
+	margin-bottom: 39px;
+}
+
+.newtext{
+	color: #bf4800;
+}
+
 .cashback1{
 	text-align: center;
 	background-color: #f5f5f7;
@@ -85,6 +97,16 @@ color: #464648;
 	padding-left: 40px;
 	color: #1371cf;
 
+}
+
+.bottombar{
+	background-color: #f5f5f7;
+	margin-top: -22px;
+	
+}
+
+.inviz{
+	color: #f5f5f7;
 }
 
 
