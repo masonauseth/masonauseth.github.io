@@ -6,7 +6,7 @@
 	padding-left: 30px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	font-size: 13px;
+	font-size: 23px;
 	
 		
 }
@@ -41,6 +41,7 @@
 	padding-left: 10px;
 	padding-right: 10px;
 	vertical-align: 60px;
+	font-size: 20px;
 	
 }
 
@@ -52,6 +53,7 @@
 	padding-left: 10px;
 	padding-right: 10px;
 	vertical-align: 60px;
+	font-size: 20px;
 		
 }
 
@@ -63,6 +65,7 @@
 	padding-left: 10px;
 	padding-right: 10px;
 	vertical-align: 60px;
+	font-size: 20px;
 	
 }
 
@@ -72,6 +75,7 @@ display: inline-block;
 text-align: center;
 vertical-align: top
 
+
 	
 }
 
@@ -79,6 +83,8 @@ vertical-align: top
 	background-color: whitesmoke;
 	text-align: center;
 	padding-top: 25px;
+	font-size: 25px
+	
 	
 }
 
