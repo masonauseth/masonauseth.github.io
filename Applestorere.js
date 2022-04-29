@@ -1,15 +1,21 @@
 
+function applelogo () {
+	window.open ("https://www.apple.com/")
+}
 
+function buyblue () {
+	window.open ("https://www.apple.com/shop/buy-iphone/iphone-13-pro")
+}
 
+function buylearnmore () {
+	window.open ("https://www.apple.com/iphone-13-pro/")
+}
 
+function learnmore () {
+	window.open ("https://www.apple.com/apple-card/monthly-installments/")
+}
 
-
-
-
-
-
-
-function store () {
+function storetop () {
 	window.open ("https://www.apple.com/store")
 }
 
@@ -26,27 +32,27 @@ function iphone () {
 }
 
 function watch () {
-	window.open ("")
+	window.open ("https://www.apple.com/watch/")
 }
 
 function AirPods () {
-	window.open ("")
+	window.open ("https://www.apple.com/airpods/")
 }
 
 function TV () {
-	window.open ("")
+	window.open ("https://www.apple.com/tv-home/")
 }
 
 function only () {
-	window.open ("")
+	window.open ("https://www.apple.com/services/")
 }
 
 function Accessories () {
-	window.open ("")
+	window.open ("https://www.apple.com/shop/accessories/all")
 }
 
 function Support () {
-	window.open ("")
+	window.open ("https://support.apple.com/")
 }
 
 function i13pro () {
@@ -77,7 +83,7 @@ function airpods () {
 	window.open ("https://www.apple.com/airpods/")
 }
 
-function airtags () {
+function airtag () {
 	window.open ("https://www.apple.com/airtag/")
 }
 
@@ -97,6 +103,20 @@ function shop () {
 	window.open ("https://www.apple.com/shop/buy-iphone")
 }
 
+document.getElementById("applelogo").addEventListener("click", applelogo)
+document.getElementById("buyblue").addEventListener("click", buyblue)
+document.getElementById("buylearnmore").addEventListener("click", buylearnmore)
+document.getElementById("learnmore").addEventListener("click", learnmore)
+document.getElementById("Support").addEventListener("click", Support)
+document.getElementById("Accessories").addEventListener("click", Accessories)
+document.getElementById("only").addEventListener("click", only)
+document.getElementById("TV").addEventListener("click", TV)
+document.getElementById("AirPods").addEventListener("click", AirPods)
+document.getElementById("watch").addEventListener("click", watch)
+document.getElementById("iphone").addEventListener("click", iphone)
+document.getElementById("ipad").addEventListener("click", ipad)
+document.getElementById("mac").addEventListener("click", mac)
+document.getElementById("storetop").addEventListener("click", storetop)
 document.getElementById("i13pro").addEventListener("click", i13pro)
 document.getElementById("i13").addEventListener("click", i13)
 document.getElementById("SE").addEventListener("click", SE)
@@ -104,7 +124,7 @@ document.getElementById("i12").addEventListener("click", i12)
 document.getElementById("i11").addEventListener("click", i11)
 document.getElementById("compare").addEventListener("click", compare)
 document.getElementById("airpods").addEventListener("click", airpods)
-document.getElementById("airtags").addEventListener("click", airtags)
+document.getElementById("airtag").addEventListener("click", airtag)
 document.getElementById("acces").addEventListener("click", acces)
 document.getElementById("card").addEventListener("click", card)
 document.getElementById("ios15").addEventListener("click", ios15)
