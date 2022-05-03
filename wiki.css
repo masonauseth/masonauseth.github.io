@@ -4,4 +4,29 @@
 	padding-left: 20px;
 	border: solid thin black;
 	background-color: whitesmoke;
+	width: 200px;
+}
+
+.contentstitle{
+	font-size: 22px;
+	padding-left: 20px;
+}
+
+.title{
+	font-size: 35px;
+	padding-left: 20px;
+}
+
+.cen20{
+	font-size: 30px;
+}
+
+
+.purpalbartext{
+	font-size: 26px;
+}
+
+.purpalbar{
+	margin-left: 25px;
+	background-color: #A599FF;
 }
