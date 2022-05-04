@@ -1,5 +1,37 @@
 /* CSS Document */
 
+
+
+
+
+
+.rightbar{
+	display: inline-block;
+	width: 20vw;
+}
+
+.leftbar{
+	display: inline-block;
+	border: solid thin lightblue;
+	background-color: whitesmoke;
+	width: 11.5vw;
+	text-align: left;
+	padding-left: 46px;
+	font-size: 20px;
+	margin-left: -8px;
+	margin-top: -9px;
+}
+
+.more23{
+	font-size: 20px;
+	height: 50px;
+	width: 130px;
+}
+
+.editlinks{
+	padding-left: 110px;
+}
+
 .contents{
 	padding-left: 20px;
 	border: solid thin black;
