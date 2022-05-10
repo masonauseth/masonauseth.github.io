@@ -40,7 +40,9 @@
 
 .churchdiv{
 	display: inline-block;
-	width: 15vw;
+	width: 19.7vw;
+	text-align: center;
+	background-color: whitesmoke;
 	
 }
 
@@ -81,6 +83,7 @@
 
 
 .article{
+	width: 1px;
 	font-size: 23px;
 	display: inline-block;
 	padding-top: 50px;
@@ -113,7 +116,7 @@
 	font-size: 26px;
 }
 
-.purpalbar{
+.purpalbar1{
 	margin-left: 25px;
 	background-color: #A599FF;
 }
@@ -121,12 +124,47 @@
 .purpalbar2{
 	background-color: #A599FF;
 	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: -17px;
+	color: blue;
+	width: 375px;
+	border: solid thin black;
 }
+
+.purpalbar3{
+	background-color: #A599FF;
+	text-align: center;
+	width: 1550px;
+
+}
+
+.graybar{
+	background-color: whitesmoke;
+	width: 1550px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 5px;
+	margin-bottom: 40px;
+	text-align: left;
+	border: solid thin black;
+	color: blue;
+	
+}
+
 
 .flag{
 	text-align: center;
 	padding-right: 5px;
 }
 
+.stmi{
+	border: solid thin black;
+	text-align: center;
+	background-color: whitesmoke;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 375px
+}
 
 
