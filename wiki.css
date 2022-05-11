@@ -167,4 +167,83 @@
 	width: 375px
 }
 
+.country{
+	display: inline-block;
+	text-align: left;
+}
+
+.statelist{
+	text-align: left;
+	display: inline-block;
+}
+
+.uslist{
+	text-align: left;
+	display: inline-block;
+	padding-left: 200px;
+}
+
+.Area{
+	text-align: left;
+	display: inline-block;
+}
+
+.areatext{
+	
+}
+
+.totallist{
+	text-align: left;
+	display: inline-block;
+}
+
+.cordslist{
+	text-align: left;
+	display: inline-block;
+	padding-left: 140px;
+}
+
+.elevation{
+	text-align: left;
+	display: inline-block;
+}
+
+.elevationtext{
+	text-align: left;
+	display: inline-block;
+}
+
+.meas{
+	text-align: left;
+	display: inline-block;
+	padding-left: 190px;
+}
+
+.pop{
+	text-align: left;
+	display: inline-block;
+}
+.poptext{
+	
+}
+
+.poplist{
+	text-align: left;
+	display: inline-block;
+	
+}
+
+.numpop{
+	text-align: left;
+	display: inline-block;
+	padding-left: 130px;
+}
+
+.spacer{
+	color: whitesmoke;
+}
+
+
+
+
 
