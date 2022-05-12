@@ -1,0 +1,40 @@
+
+.all{
+	background-color: white;
+
+}
+
+.leftbar{
+	width: 10vw;
+	display: inline-block;
+	text-align: center;
+}
+	
+.knightimage{
+	vertical-align: top;
+	text-align: center;
+	background-color: yellow;
+	border: solid thin black;
+	margin-left: 300px;	
+}
+
+.topbluebar{
+	background-color: blue;
+	text-align: center;		
+	border: solid thin black;
+	margin-left: 300px;	
+}
+
+.leftbluebartext{
+	color: white;
+	padding-right: 40px;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.rightbluebartext{
+	color: white;
+	padding-right: 40px;
+	font-size: 20px;
+	display: inline-block;
+}
