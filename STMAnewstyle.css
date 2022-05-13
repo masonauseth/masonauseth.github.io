@@ -1,13 +1,27 @@
 
 .all{
-	background-color: white;
+	background-color: yellow;
 
 }
 
 .leftbar{
-	width: 10vw;
 	display: inline-block;
+	width: 12vw;
+	margin-left: -8.5px;
+	margin-top: -8.5px;
 	text-align: center;
+	vertical-align: top;
+	background-color: yellow;
+	border: solid thin black;
+	color: #001489;
+}
+
+.blueyellow{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -5px;
+	margin-top: -8.5px;
+	width: 85vw;
 }
 	
 .knightimage{
@@ -15,26 +29,36 @@
 	text-align: center;
 	background-color: yellow;
 	border: solid thin black;
-	margin-left: 300px;	
+	
+}
+
+.bb7028{
+	text-align: center;
+	background-color: yellow;
+	padding-top: 5px;
+	font-size: 30px;
+	border: solid thin black;
 }
 
 .topbluebar{
+	vertical-align: top;
 	background-color: blue;
 	text-align: center;		
 	border: solid thin black;
-	margin-left: 300px;	
+	width: 85vw;
+	
 }
 
 .leftbluebartext{
 	color: white;
 	padding-right: 40px;
-	font-size: 20px;
+	font-size: 43px;
 	display: inline-block;
 }
 
 .rightbluebartext{
 	color: white;
 	padding-right: 40px;
-	font-size: 20px;
+	font-size: 50px;
 	display: inline-block;
 }
