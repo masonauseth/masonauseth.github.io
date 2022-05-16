@@ -62,3 +62,50 @@
 	font-size: 50px;
 	display: inline-block;
 }
+
+.buttonpicline{
+	background-color: blue;
+	text-align: center;
+	
+}
+
+.districthomebutton{
+	text-align: center;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: 60px;
+	font-size: 55px;
+	margin-top: 60px;
+	
+}
+
+.ourschoolsbutton{
+	
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: 60px;
+	font-size: 55px;
+		
+}
+
+.magnifybutton{
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: 60px;
+	font-size: 55px;
+	
+}
+
+
+
+
+
