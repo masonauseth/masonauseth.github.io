@@ -7,8 +7,8 @@
 .leftbar{
 	display: inline-block;
 	width: 12vw;
-	margin-left: -8.5px;
-	margin-top: -8.5px;
+	margin-left: -.3vw;
+	margin-top: -.3vw;
 	text-align: center;
 	vertical-align: top;
 	background-color: yellow;
@@ -19,24 +19,28 @@
 .blueyellow{
 	display: inline-block;
 	vertical-align: top;
-	margin-left: -5px;
-	margin-top: -8.5px;
-	width: 85vw;
+	margin-left: -.16vw;
+	margin-top: -.3vw;
+	width: 86vw;
 }
 	
 .knightimage{
 	vertical-align: top;
-	text-align: center;
+	padding-left: 27vw;
+	padding-top: 2vw;
 	background-color: yellow;
 	border: solid thin black;
 	
 }
 
+
+
 .bb7028{
 	text-align: center;
 	background-color: yellow;
-	padding-top: 5px;
-	font-size: 30px;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	font-size: 1vw;
 	border: solid thin black;
 }
 
@@ -45,21 +49,21 @@
 	background-color: blue;
 	text-align: center;		
 	border: solid thin black;
-	width: 85vw;
+	width: 86vw;
 	
 }
 
 .leftbluebartext{
 	color: white;
-	padding-right: 40px;
-	font-size: 43px;
+	padding-right: 1vw;
+	font-size: 1vw;
 	display: inline-block;
 }
 
 .rightbluebartext{
 	color: white;
-	padding-right: 40px;
-	font-size: 50px;
+	padding-right: 1vw;
+	font-size: 1.5vw;
 	display: inline-block;
 }
 
@@ -71,46 +75,41 @@
 }
 
 .districthomebutton{
-	border: solid thin black;
-	background-color: yellow;
 	display: inline-block;
 	text-align: center;
-	color: black;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	padding-left: 10px;
-	padding-right: 10px;
-	vertical-align: 60px;
-	font-size: 55px;
-	margin-top: 60px;
+	color: white;
+	padding-bottom: 1vw;
+	padding-left: 7vw;
+	padding-right: 7vw;
+	vertical-align: 1.5vw;
+	font-size: 2vw;
+	margin-top: 1vw;
 	
 }
 
 .ourschoolsbutton{
-	border: solid thin black;
-	background-color: yellow;
 	display: inline-block;
-	color: black;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	padding-left: 10px;
-	padding-right: 10px;
-	vertical-align: 60px;
-	font-size: 55px;
-		
+	color: white;
+	padding-bottom: 1vw;
+	padding-left: 7vw;
+	padding-right: 7vw;
+	vertical-align: 1.5vw;
+	font-size: 2vw
 }
 
 .magnifybutton{
 	border: solid thin black;
-	background-color: yellow;
 	display: inline-block;
-	color: black;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	padding-left: 10px;
-	padding-right: 10px;
-	vertical-align: 60px;
-	font-size: 55px;
+	color: white;
+	background-color: blue;
+	text-align: center;
+	padding-top: .5vw;
+	padding-bottom: 1vw;
+	padding-left: 1.5vw;
+	padding-right: 1.5vw;
+	vertical-align: 1vw;
+	font-size: 3vw;
+	margin-left: 7vw;
 	
 }
 
