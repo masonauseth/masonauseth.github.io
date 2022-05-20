@@ -4,9 +4,9 @@ body{
 	background-color: #212a53;
 }
 
-.all{
+.mainheader{
 	display: inline-block;
-	
+	margin-left: 17vw;
 }
 
 .title{
@@ -18,8 +18,31 @@ body{
 	display: inline-block;
 	vertical-align: top;
 	margin-top: -1vw;
+	
 }
+
+.cacoon{
+	width: 10vw;
+	height: auto;
+}
+
 
 .titlediv{
 	display: inline-block;
+}
+
+.welcome{
+	color: white;
+	text-align: center;
+}
+
+.whatisit{
+	color: white;
+	text-align: center;
+}
+
+.homeimage{
+	width: 50vw;
+	height: auto;
+	margin-left: 12.5vw;
 }
