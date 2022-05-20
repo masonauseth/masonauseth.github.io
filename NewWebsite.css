@@ -12,6 +12,7 @@ body{
 .title{
 	color: white;
 	font-size: 2vw;
+	text-align: center;
 }
 
 .cacoondiv{
@@ -29,6 +30,15 @@ body{
 
 .titlediv{
 	display: inline-block;
+	text-align: center;
+}
+
+.links{
+	text-align: center;
+	width: 10vw;
+	color: white;
+	border: solid thin white;
+	margin-left: 15.5vw;
 }
 
 .welcome{
