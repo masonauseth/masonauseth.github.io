@@ -4,6 +4,10 @@ body{
 	background-color: #212a53;
 }
 
+a{
+	color: white;
+}
+
 .mainheader{
 	display: inline-block;
 	margin-left: 17vw;
@@ -41,6 +45,7 @@ body{
 	margin-left: 15.5vw;
 }
 
+
 .welcome{
 	color: white;
 	text-align: center;
@@ -56,3 +61,6 @@ body{
 	height: auto;
 	margin-left: 12.5vw;
 }
+
+
+
