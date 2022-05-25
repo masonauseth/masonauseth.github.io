@@ -45,6 +45,10 @@ a{
 	margin-left: 15.5vw;
 }
 
+.pages{
+	text-align: left;
+	
+}
 
 .welcome{
 	color: white;
@@ -61,6 +65,52 @@ a{
 	height: auto;
 	margin-left: 12.5vw;
 }
+
+.icons{
+	background-color: #0B012E;
+	margin-left: -1vw;
+	margin-right: -1vw;
+	text-align: center;
+	color: white;
+}
+
+.knighticon{
+	width: 6vw;
+	height: auto;
+	padding-top: -1vw;
+	display: inline-block;
+}
+
+.horneticon{
+	width: 6vw;
+	height: auto;
+	padding-bottom: -2vw;
+	display: inline-block;
+}
+
+.zoteicon{
+	width: 4.5vw;
+	height: auto;
+	display: inline-block;
+}
+
+.vesselicon{
+	width: 4.2vw;
+	height: auto;
+	display: inline-block;
+}
+
+.swordticon{
+	width: 4.2vw;
+	height: auto;
+	display: inline-block;
+}
+
+
+
+
+
+
 
 
 
