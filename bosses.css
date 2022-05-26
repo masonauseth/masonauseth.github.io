@@ -1,0 +1,68 @@
+body{
+	background-color: #212a53;
+}
+
+a{
+	color: white;
+}
+
+.mainheader{
+	display: inline-block;
+	margin-left: 17vw;
+}
+
+.title{
+	color: white;
+	font-size: 2vw;
+	text-align: center;
+}
+
+.cacoondiv{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -1vw;
+	
+}
+
+.cacoon{
+	width: 10vw;
+	height: auto;
+}
+
+
+.titlediv{
+	display: inline-block;
+	text-align: center;
+}
+
+.links{
+	text-align: center;
+	width: 10vw;
+	color: white;
+	border: solid thin white;
+	margin-left: 15.5vw;
+	margin-right: 15.5vw;
+}
+
+.aboutchar{
+	color: white;
+	text-align: center;
+}
+
+.bo{
+	
+}
+
+.bosses{
+	color: white;
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
